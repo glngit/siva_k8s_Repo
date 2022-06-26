@@ -1,0 +1,151 @@
+[33mcommit cdf6c9ec3d8b67256f3f98e3dab7fa1abc5e9163[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: siva <devopswithcloud@gmail.com>
+Date:   Mon Jun 20 11:58:20 2022 +0530
+
+    Added MySQL
+
+[33mcommit ddae46603ac8411a171e3d1d38f7effc4e4e8ef8[m
+Author: siva <devopswithcloud@gmail.com>
+Date:   Sun Jun 19 07:01:21 2022 +0530
+
+    added cronjob
+
+[33mcommit c4734c68c4a20ed83006c6bb34ce5207fbacd52c[m
+Author: siva <devopswithcloud@gmail.com>
+Date:   Sun Jun 19 06:47:50 2022 +0530
+
+    added job
+
+[33mcommit eb416d7c3072a0159ebd1d16cbcfa0e280ff6193[m
+Author: siva <devopswithcloud@gmail.com>
+Date:   Sun Jun 19 06:29:06 2022 +0530
+
+    added sts static init
+
+[33mcommit 5cdd926a3a2e605b35e12071349648d9f5de6d8b[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat May 21 21:05:04 2022 +0530
+
+    Create docker.sh
+
+[33mcommit 748298233a6a88fad42f33fd1d8f0920d45c8815[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat May 14 14:36:49 2022 +0530
+
+    added manifest files
+
+[33mcommit eadd612e0fc4b999543d79f9a1d733ea66d700d6[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat May 7 19:45:51 2022 +0530
+
+    Added Storage
+
+[33mcommit 5f354304e146770e262535576b79b6f3c2b16d76[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Apr 30 13:34:53 2022 +0530
+
+    Added nodeport
+
+[33mcommit 3f8153aaa45f96e2aba69af60215876b696b0fba[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Apr 30 13:10:20 2022 +0530
+
+    Added all files
+
+[33mcommit 6e58ee478c9265cb5daf4b2ae390c4b290abc069[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Mar 19 08:04:39 2022 +0530
+
+    Update UpgradeCluster.md
+
+[33mcommit bde6319ede031ff81e8a0784aebd505c252bb46d[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Mar 19 08:04:19 2022 +0530
+
+    Update UpgradeCluster.md
+
+[33mcommit a4e025d5aaffe4061e2cfd1f0469dfc1dd1e6c76[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Mar 19 07:46:58 2022 +0530
+
+    Update UpgradeCluster.md
+
+[33mcommit fc8a976ede6d5b6c6c224fe0e4d67209d5e87333[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Mar 19 07:29:51 2022 +0530
+
+    Rename UpgradeCluster to UpgradeCluster.md
+
+[33mcommit 04519fc14399be17dffa4dab4907af6efe8c5e76[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Mar 19 07:29:40 2022 +0530
+
+    Create UpgradeCluster
+
+[33mcommit 4b556f107ef5562e845e68c690395410944187ce[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Fri Mar 4 22:11:31 2022 +0530
+
+    Update Cluster.md
+
+[33mcommit 23d9990ad6be1510023ecc319123854352fd9929[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Feb 5 10:59:13 2022 +0530
+
+    Added files
+
+[33mcommit 00a9313d268ee32fe3b50777de7197bd02d4a340[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Dec 4 21:41:25 2021 +0530
+
+    Delete security.md
+
+[33mcommit abda232c216a4131a9fa88a914563beb5ec587cd[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Fri Dec 3 11:27:18 2021 +0530
+
+    Update Cluster.md
+
+[33mcommit 8f605e230e85a7428e76bbfa4fa8329ea9df96ca[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Jul 24 19:49:18 2021 +0530
+
+    added security
+
+[33mcommit 84db05f7d8781a789b412db120c6ca38289404e3[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Jul 10 11:37:14 2021 +0530
+
+    Added todays class yaml file for storage
+
+[33mcommit 82cf1a11632961bad18c7a6c6b0e500439acc05f[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Fri Jul 9 21:33:49 2021 +0530
+
+    Added Install steps for NFS
+
+[33mcommit cf96b0cc3ad374bdf0834dfe8a003e6de73f98a9[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sun Jun 27 09:20:29 2021 +0530
+
+    Update Cluster.md
+    
+    updated cluster
+
+[33mcommit f1507e6743a90c03915b35717e80fec511faa5c2[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sun Jun 27 06:33:41 2021 +0530
+
+    Cluster creation
+
+[33mcommit 5ac41cffa9b3526dbc1d4fba0386343e78ad2f45[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Jun 26 14:24:53 2021 +0530
+
+    First Readme
+
+[33mcommit f8029cbfd43ca5ffc4459ca7d3d574af3db17dd6[m
+Author: devopswithcloud <65442863+devopswithcloud@users.noreply.github.com>
+Date:   Sat Jun 26 14:23:53 2021 +0530
+
+    Initial commit
